@@ -1,4 +1,4 @@
-# 
+# Instantané Cline plugins. Avec open source et informatique de bord — optimisé pour des performances et une efficacité maximales.
 
 
 
